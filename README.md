@@ -111,3 +111,7 @@ The firmware supports Modbus exception responses for invalid requests:
 ## Project Status
 
 The project has been tested using QModMaster over a USB-RS485 adapter. The STM32 responds to valid Modbus RTU holding register requests and returns Modbus exception frames for unsupported or invalid requests.
+
+## Demo Screenshots
+### Register Read (ie 11)
+![11 Register Read](docs/images/image.png)
