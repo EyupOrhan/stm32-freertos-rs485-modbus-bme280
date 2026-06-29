@@ -114,4 +114,4 @@ The project has been tested using QModMaster over a USB-RS485 adapter. The STM32
 
 ## Demo Screenshots
 ### Register Read (ie 11)
-![11 Register Read](docs/images/image.png)
+![11 Register Read](docs/images/registertest.png)
